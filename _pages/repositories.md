@@ -1,11 +1,14 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repositories
+description: "Follow me on GitHub: <a href='https://github.com/12wang3'>https://github.com/12wang3</a>"
 nav: true
 nav_order: 3
 ---
+<!-- Follow me on GitHub: [https://github.com/12wang3](https://github.com/12wang3)
+
+--- -->
 
 ## GitHub users
 

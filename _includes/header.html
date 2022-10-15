@@ -94,6 +94,22 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              <li class="nav-item">
+                <a class="nav-link" href="/#selected-honors" >Awards
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/#teaching_pos" >Teaching
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ 'CV_english.pdf' | prepend: '/assets/pdf/' | relative_url }}" target="_blank">CV
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ 'CV_chinese.pdf' | prepend: '/assets/pdf/' | relative_url }}" target="_blank">简历
+                </a>
+              </li>
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-09-29 06:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Our work on interpretable rule-based representation learning was accepted by NeurIPS 2021.
